@@ -1,0 +1,68 @@
+<style type="text/css">
+	.botao {
+		width: 150px;
+		height: 35px;
+		margin-top: 2em;
+		line-height: 35px;
+		background-color: #333;
+		text-align: center;
+		cursor: pointer;
+	}
+	
+	.botao2 {
+		width: 150px;
+		height: 35px;
+		color: white;
+		margin-top: 2em;
+		line-height: 35px;
+		background-color: blue;
+		text-align: center;
+		cursor: pointer;
+	}
+
+	.botao3 {
+		width: 150px;
+		height: 35px;
+		color: white;
+		margin-top: 2em;
+		line-height: 35px;
+		background-color: red;
+		text-align: center;
+		cursor: pointer;
+	}
+
+	.botao4 {
+		width: 150px;
+		height: 35px;
+		margin-top: 2em;
+		color: white;
+		line-height: 35px;
+		background-color: violet;
+		text-align: center;
+		cursor: pointer;
+	}
+
+	.div {
+		width: 150px;
+		height: 150px;
+		background-color: #ddd;
+	}
+
+	.div-2 {
+		width: 150px;
+		height: 150px;
+		background-color: orange;
+	}
+
+	.div-3 {
+		width: 150px;
+		text-align: center;
+		height: 150px;
+		background-color: #dd3;
+	}
+
+	.div-4 {
+		width: 150px;
+		height: 150px;
+		background-color: #6d5;
+	}
