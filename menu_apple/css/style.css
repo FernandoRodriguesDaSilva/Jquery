@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+}
+
+.menu {
+	width: 800px;
+	height: 70px;
+	background-color: #ddd;
+	position: fixed;
+	bottom: 0px;
+	left: 50%;
+	margin-left: -400px;
+}
+
+.icone {
+	width: 70px;
+	height: 70px;
+	background-color: gray;
+	/* Deixar um icone do lado do outro */
+	float: left;
+	margin-right: 10px;
+	cursor: pointer;
+	border-radius: 20%;
+}
